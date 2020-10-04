@@ -30,4 +30,4 @@ cat << EOF > config.json
 }
 EOF
 
-./web
+./caddy
